@@ -4,15 +4,6 @@ by
 ## wantienc & blwallac [@] andrew.cmu.edu
 ## Carnegie Mellon University
 
-### **Sections:** 
-  
-#### 1. Data Cleaning  
-#### 2. Exploratory Data Analysis  
-#### 3. Sampling  
-#### 4. Splitting
-#### 5. Feature Engineering  
-#### 6. Machine Learning 
-
 ### **Overview**  
 
 Using publicly available information on a standard job-board website, we developed an approach to successfully identify fraudulent job postings 95% of the time with 63% percent recall. Our objective was to identify the rare cases of scams on job boards to flag them in the future for content moderators.  
